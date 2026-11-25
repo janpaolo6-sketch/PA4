@@ -8,7 +8,7 @@
 | Integrante | Rol |
 | :--- | :--- |
 | **JAN PAOLO ARELLANO BAILON** | Actividad 1 |
-| **CARLOS AARON PEREZ SCHARFF** | Actividad  |
+| **CARLOS AARON PEREZ SCHARFF** | Actividad 2 |
 | **ALAN LLALLIHUAMAN CALDERON** | Actividad 4  |
 | **OSCAR MARAVI FALCON** | Actividad  3 |
 
