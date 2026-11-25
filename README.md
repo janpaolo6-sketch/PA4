@@ -10,7 +10,7 @@
 | **JAN PAOLO ARELLANO BAILON** | Actividad 1 |
 | **CARLOS AARON PEREZ SCHARFF** | Actividad  |
 | **ALAN LLALLIHUAMAN CALDERON** | Actividad 4  |
-| **Oscar Maravi Falcon** | Actividad |
+| **OSCAR MARAVI FALCON** | Actividad  3 |
 
 ## Matriz de participación
 
