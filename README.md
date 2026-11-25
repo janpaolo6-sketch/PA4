@@ -24,7 +24,7 @@
 
 ## Video de exposición
 
-**Video público de YouTube:** []
+**Video público de YouTube:** [https://youtu.be/bXTNKx9xSL8]
 
 Todos los integrantes deben participar en la exposición con sus cámaras prendidas y explicar el procedimiento, la solución desarrollada y las decisiones tomadas.
 
